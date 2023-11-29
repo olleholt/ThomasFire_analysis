@@ -1,7 +1,7 @@
 # eds220-hw4-task3
 
 # Thomas Fire in Santa Barbara County
-This is an example repository for UCSB's MEDS program EDS 220 class.
+To visualize the impact on the Air Quality Index Thomas Fire in Santa Barbara County and to create a false color image showing the fire scar of the Thomas fire in 2017.
 
 ## About
 This repositroy contains a notebook NY-state-spills-per-county.ipynb analyzing data about spilling incidents of petroleum and other hazardous materials in the state of New York, US.
